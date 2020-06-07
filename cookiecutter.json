@@ -1,0 +1,7 @@
+{
+  "project_slug": "sample",
+  "_copy_without_render": [
+    "{{cookiecutter.project_slug}}/templates/*.html",
+    "{{cookiecutter.project_slug}}/templates/*/*.html"
+  ]
+}
